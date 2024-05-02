@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @FandyFrID<br>🤝 I was helped by @FandyFr <br>🌱 I’m currently learning: HTML, Digital Command Languange, React JS, Vue, Windows Powershell, Python, <br>💬 Ask me aboutJS, and Binary Code<br>⚡ Fun fact:<br>Did you know that HaruTech's seamless performance relies on the magic of DNS?<br><br>Just like HaruTech innovates and transforms the tech landscape, DNS (Domain Name System) quietly but crucially directs your internet traffic, making sure you reach your desired destinations online. Every time you visit a website or send an email with a domain name, behind the scenes, DNS is working tirelessly to resolve that name into the correct IP address, ensuring smooth communication and connectivity.<br><br>So, while HaruTech is busy revolutionizing the tech world, remember that DNS is the unsung hero quietly guiding you through the vast landscape of the internet. Together, they make sure you enjoy a seamless and efficient online experience!<br>
+🔭 I’m currently working on [@FandyFrID]<br>🤝 I was helped by [@FandyFr] <br>🌱 I’m currently learning: HTML, Digital Command Languange, React JS, Vue, Windows Powershell, Python, <br>💬 Ask me aboutJS, and Binary Code<br>⚡ Fun fact:<br>Did you know that HaruTech's seamless performance relies on the magic of DNS?<br><br>Just like HaruTech innovates and transforms the tech landscape, DNS (Domain Name System) quietly but crucially directs your internet traffic, making sure you reach your desired destinations online. Every time you visit a website or send an email with a domain name, behind the scenes, DNS is working tirelessly to resolve that name into the correct IP address, ensuring smooth communication and connectivity.<br><br>So, while HaruTech is busy revolutionizing the tech world, remember that DNS is the unsung hero quietly guiding you through the vast landscape of the internet. Together, they make sure you enjoy a seamless and efficient online experience!<br>
 
 
 ## 🌐 Socials:
@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harukarepo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[@FandyFr]: https://github.com/FandyFr
+[@FandyFrID]: https://github.com/orgs/FandyFrID
