@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on modern web applications  
-🌱 I’m learning and building with Next.js, React, TailwindCSS, Prisma, PostgreSQL, Redis, and Framer Motion  
+🌱 I’m learning and building with Next.js, React, TailwindCSS, GSAP, Prisma, PostgreSQL, Redis, and motion  
 💬 Ask me about Node.js, Web Development, Backend, Frontend, or Fullstack Development  
 ⚡ Fun fact: I love turning ideas into scalable, user-friendly digital experiences  
 
